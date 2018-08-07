@@ -8,7 +8,7 @@ function renderNavBar () {
             navHTML += `<a id="type--${type.id}" href="#">${type.description}</a>`
         })
 
-        navHTML += "<a href=\"#\">Create Product</a>"
+        navHTML += "<a id=\"type--4\" href=\"#\">Create Product</a>"
         navHTML += "</nav>"
 
         return navHTML

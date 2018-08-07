@@ -49,8 +49,44 @@
       "id": 6
     },
     {
-      "isTrusted": true,
-      "id": 7
+      "name": "Cookies",
+      "description": "Vegan",
+      "price": 2,
+      "quantity": 30,
+      "type": 2,
+      "id": 10
+    },
+    {
+      "name": "Sweater",
+      "description": "Human hair",
+      "price": 100,
+      "quantity": 20,
+      "type": 1,
+      "id": 11
+    },
+    {
+      "name": "Socks",
+      "description": "Goat hair",
+      "price": 10,
+      "quantity": 30,
+      "type": 1,
+      "id": 12
+    },
+    {
+      "name": "Cake",
+      "description": "Vegan",
+      "price": 30,
+      "quantity": 10,
+      "type": 2,
+      "id": 13
+    },
+    {
+      "name": "john",
+      "description": "wood",
+      "price": 120,
+      "quantity": null,
+      "type": 3,
+      "id": 14
     }
   ],
   "types": [
